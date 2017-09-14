@@ -12,7 +12,7 @@ curl -sSL https://raw.githubusercontent.com/PavelSheremetev/simple_scripts_ipfs/
 * Для x86 :
 https://gobuilder.me/get/github.com/ipfs/go-ipfs/cmd/ipfs/ipfs_master_windows-386.zip
 * Для x64 :
-https://gobuilder.me/get/github.com/ipfs/go-ipfs/cmd/ipfs/ipfs_master_linux-amd64.zip
+https://gobuilder.me/get/github.com/ipfs/go-ipfs/go-ipfs_master_windows-amd64.zip
 
 2 - Извлеките содержащуюся в архиве директорию go-ipfs в :
 ```bash
